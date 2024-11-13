@@ -1,0 +1,82 @@
+body{
+    background-color: black;
+  
+    
+    
+}
+#widthbg{
+ background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(https://repository-images.githubusercontent.com/299409710/b42f7780-0fe1-11eb-8460-e459acd20fb4);
+ background-position: center center;
+ background-size: 100%;
+   position: relative;
+
+    height: 124vh;
+    border-bottom: 10px solid rgba(255, 0, 0, 0.418);
+   
+   
+}
+
+#radius{
+    border-radius: 5%;
+    position: relative;
+    height: 40px;
+    width: 130px;
+};
+
+#sign{
+    position: relative;
+    height: 44px;
+    top: -1px;
+}
+#texts{
+    position: relative;
+    top: 80px;
+    font-size: 65px;
+    font-weight: bolder;
+}
+#textb{
+    position: relative;
+    top: 85px;
+    font-size: 15px;
+
+}
+#textc{
+    position: relative;
+    top: 30px;
+}
+#emailbar{
+    height: 42px;
+    width: 370px;
+    background: transparent;
+}
+
+/* part2 */
+.main{
+    background: radial-gradient(20% 480% at 50% -420%, rgba(64, 97, 231, 0.4) 80%, rgba(0, 0, 0, 0.1) 100%), black;
+    max-width: 100%;
+    height: max-content;
+
+}
+#dropdownMenu2{
+    border:1.0px solid rgba(255, 255, 255, 0.425);
+    
+}
+#card1{
+    border: 1px solid black;
+    border-radius: 11px;
+    border-style: hidden;
+}
+#color1{
+    background-color: darkgrey;
+}
+#buttonlast{
+    height: 42px;
+    width: 150px;
+}
+#pic img:hover{
+    transform: scale(110%);
+}
+.text1{
+    color: rgba(255, 255, 255, 0.7);
+}
+
