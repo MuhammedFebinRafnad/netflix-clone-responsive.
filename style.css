@@ -12,11 +12,8 @@ body{
  background-position: center center;
  background-size: 100%;
    position: relative;
-
     height: 124vh;
     border-bottom: 10px solid rgba(255, 0, 0, 0.418);
-   
-   
 }
 
 #radius{
