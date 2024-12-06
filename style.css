@@ -4,8 +4,6 @@
 body{
     background-color: black;
   
-    
-    
 }
 #widthbg{
  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(https://repository-images.githubusercontent.com/299409710/b42f7780-0fe1-11eb-8460-e459acd20fb4);
@@ -15,14 +13,12 @@ body{
     height: 124vh;
     border-bottom: 10px solid rgba(255, 0, 0, 0.418);
 }
-
 #radius{
     border-radius: 5%;
     position: relative;
     height: 40px;
     width: 130px;
 };
-
 #sign{
     position: relative;
     height: 44px;
